@@ -1,0 +1,6 @@
+Fri, 13 Apr 2018 13:28:52 settings.py[settings:<module>][line:112] DEBUG This is debug message
+Fri, 13 Apr 2018 13:28:52 settings.py[settings:<module>][line:113] INFO This is info message
+Fri, 13 Apr 2018 13:28:52 settings.py[settings:<module>][line:114] WARNING This is warning message
+Fri, 13 Apr 2018 13:28:54 utils.py[utils:execute][line:89] DEBUG (0.001) QUERY = "\n            SELECT name, type FROM sqlite_master\n            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'\n            ORDER BY name" - PARAMS = (); args=None
+Fri, 13 Apr 2018 13:28:54 utils.py[utils:execute][line:89] DEBUG (0.000) QUERY = u'SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"' - PARAMS = (); args=()
+Fri, 13 Apr 2018 13:29:01 views.py[views:test_vbs][line:8] INFO ============================== vbs test ==============================

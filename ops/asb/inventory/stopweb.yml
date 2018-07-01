@@ -1,0 +1,10 @@
+---
+- hosts: "stopapache2"
+  tasks:
+    - name: "stop apache2"
+      command: service apache2 stop
+      register: stop_result
+    - name: inform users
+      command: echo `date + '%Y%m%d %H:%M:%S'` inform users by mail >> /home/wfq/asb.log
+      when: "'Stopping web server apache2' in stop_result.stdout"
+      

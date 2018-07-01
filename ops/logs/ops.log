@@ -1,0 +1,96 @@
+
+Sat, 30 Jun 2018 16:38:42 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 16:38:42 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 16:39:28 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 16:39:28 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 08:39:32 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 08:39:32 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 08:51:03 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 08:51:03 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 08:58:15 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 08:58:15 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 17:00:25 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 17:00:25 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:00:28 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:00:28 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:01:58 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:01:58 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:03:07 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:03:07 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:03:52 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:03:52 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:08:11 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:08:11 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:11:00 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:11:00 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:12:22 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:12:22 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:19:05 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:19:05 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:19:50 tasks.py[tasks:start_mis1c10][line:57] INFO =================================enter start_mis1c10=================================
+Sat, 30 Jun 2018 09:20:24 tasks.py[tasks:start_mis1c10][line:67] INFO two web servers have been started
+Sat, 30 Jun 2018 09:20:36 tasks.py[tasks:start_mis1c10][line:74] INFO 10 app servers have been started
+Sat, 30 Jun 2018 09:22:37 tasks.py[tasks:start_mis1c10][line:79] INFO 2 cm servers have been started, the mis1c10 cluster service has recovery.
+Sat, 30 Jun 2018 09:22:42 tasks.py[tasks:start_mis1c10][line:81] INFO =================================out start_mis1c10=================================
+Sat, 30 Jun 2018 09:24:01 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:24:01 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:26:49 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:26:49 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:28:51 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:28:51 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:29:34 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:29:34 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:30:11 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:30:11 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 17:30:13 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 17:30:13 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:30:17 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:30:17 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:31:03 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:31:03 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:31:08 tasks.py[tasks:mail_test_2][line:87] INFO test*********************test
+Sat, 30 Jun 2018 09:31:13 tasks.py[tasks:mail_test_2][line:87] INFO test*********************test
+Sat, 30 Jun 2018 09:31:31 tasks.py[tasks:mail_test_2][line:87] INFO test*********************test
+Sat, 30 Jun 2018 09:32:05 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:32:05 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 17:34:43 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 17:34:43 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:35:18 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:35:18 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 09:37:57 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 09:37:57 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 17:39:22 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 17:39:22 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 17:42:46 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 17:42:46 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 21:56:32 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 21:56:32 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 13:56:35 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 13:56:35 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:01:04 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:01:04 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:02:02 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:02:02 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:04:54 mail_tool.py[mail_tool:_get_smtp_server][line:21] ERROR logon smtp server failed.
+Sat, 30 Jun 2018 14:05:30 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:05:30 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:07:36 mail_tool.py[mail_tool:_get_smtp_server][line:21] ERROR logon smtp server failed. 
+Sat, 30 Jun 2018 14:07:46 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:07:46 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:08:09 mail_tool.py[mail_tool:_get_smtp_server][line:22] ERROR logon smtp server failed. 
+Sat, 30 Jun 2018 14:08:44 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:08:44 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:13:24 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:13:24 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:13:54 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:13:54 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:16:15 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:16:15 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:16:58 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:16:58 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:19:03 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:19:03 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:19:21 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:19:21 settings.py[settings:<module>][line:128] WARNING This is warning message
+Sat, 30 Jun 2018 14:24:26 settings.py[settings:<module>][line:127] INFO This is info message
+Sat, 30 Jun 2018 14:24:26 settings.py[settings:<module>][line:128] WARNING This is warning message

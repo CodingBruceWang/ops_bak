@@ -9,7 +9,7 @@ import logging
 class MailTool(object):
     smtp_server = 'smtp.163.com'
     from_addr = user = 'wangfoqing25@163.com'
-    password = 'wangfoqing25'
+    password = 'xxx'
 
     def _get_smtp_server(self):
         try:
